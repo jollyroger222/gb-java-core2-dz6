@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class ServerStart {
     public static void main(String[] args) throws IOException {
-        System.out.println("Поехали");
+        System.out.println("Поехали1");
         new mainServer();
     }
 }
